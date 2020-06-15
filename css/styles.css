@@ -1,0 +1,31 @@
+body {
+    background-color: #f5f5dd;
+}
+
+.test {width: 150px;
+    height: 150px;
+    background-color: rgba(0, 0, 0, 1);
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.test2 {width: 150px;
+    height: 150px;
+    background-color: rgba(0, 0, 0, .7);
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.test3 {width: 150px;
+    height: 150px;
+    background-color: rgba(0, 0, 0, .4);
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.test4 {width: 150px;
+    height: 150px;
+    background-color: rgba(0, 0, 0, .1);
+    margin: auto;
+    margin-bottom: 10px;
+}
